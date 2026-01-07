@@ -1,5 +1,4 @@
-# Store-Performance and Purchasing Pattern Analysis
-## Book Store Cstomer Behaviour & Ratings Analysis
+# Book Store Customer Behaviour & Ratings Analysis
 ### Project Objective
 * To analyze sales performance
 * To evaluate customers satisfactions
